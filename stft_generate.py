@@ -28,10 +28,10 @@ import glob
 from tqdm import tqdm
 
 # ==================== User Configuration ====================
-clean_root = r"F:\graduate\data\clean"
-noisy_root = r"F:\HSM\noised_data"
-output_root = r"F:\HSM\spectrograms"
-recipe_csv = r"F:\HSM\noised_data\recipes\dataset_recipe.csv"
+clean_root = 
+noisy_root =
+output_root = 
+recipe_csv = 
 # ============================================================
 
 # ==================== STFT Parameters ====================
