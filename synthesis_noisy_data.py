@@ -15,9 +15,9 @@ import librosa
 import soundfile as sf
 
 # ==================== User Configuration ====================
-clean_root = r"F:\graduate\data\clean"
-output_root = r"F:\HSM\noised_data"
-noise_folder = r"F:\graduate\data\Hospital noise"
+clean_root = 
+output_root = 
+noise_folder = 
 # ============================================================
 
 TARGET_SR = 2000
